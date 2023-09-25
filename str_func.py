@@ -1,5 +1,5 @@
 def upper_string(word):
-    """letters for main"""
+    """letters for main(editing this file)"""
     return word.upper()
 
 def capital_words(string) -> str:
